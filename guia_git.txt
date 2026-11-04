@@ -2,7 +2,7 @@
 
 
 1. Git vs GitHub:
-O Git é o programa que controla as versões no PC. O GitHub é o site na nuvem onde guardamos esses projetos online.
+O Git é o programa que controla as versões no PC. O GitHub é o site onde guardamos projetos online.
 
 2. Estados de um ficheiro:
 - Modified: Alterado no PC.
