@@ -1,2 +1,2 @@
 # Projeto_Final
-Este repositorio é uma o projeto final
+Este repositorio é para o projeto final
