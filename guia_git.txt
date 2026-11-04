@@ -1,0 +1,27 @@
+ GUIA DO GIT E GITHUB
+
+
+1. Git vs GitHub:
+O Git é o programa que controla as versões no PC. O GitHub é o site na nuvem onde guardamos esses projetos online.
+
+2. Estados de um ficheiro:
+- Modified: Alterado no PC.
+- Staged: Preparado para guardar (git add).
+- Committed: Guardado com sucesso (git commit).
+
+3. Git Tags:
+São etiquetas para marcar pontos importantes, como versões finais de lançamento.
+
+4. Comandos Essenciais:
+- Inicializar: git init
+- Clonar: git clone <url>
+- Ver estado: git status
+- Adicionar: git add .
+- Comentar: git commit -m "mensagem"
+- Enviar online: git push
+- Atualizar PC: git pull
+- Criar Branch: git branch <nome>
+- Mudar Branch: git checkout <nome>
+- Fundir Branch: git merge <nome>
+- Histórico: git log
+- Anular commit: git reset
